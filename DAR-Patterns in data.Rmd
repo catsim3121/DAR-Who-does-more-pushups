@@ -26,6 +26,8 @@ Among other things, the students recorded the type of position a player had on t
 
 Line players are on the offensive or defensive line.  They need to be a certain kind of speed, but they must also be quite big and strong.  Skill players do a lot of runninga and catching:  they are the quarterback, running backs, receivers, etc.
 
+The project will be looking at the data containing the weight and the amount of pushups of football players from Georgetown College. There were eight linemen and twenty-two skill players involved in the experiment. 
+
 Our Research Question is:
 
   >Who does more pushups, on average: a line player or a skill player?
