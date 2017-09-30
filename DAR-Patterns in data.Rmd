@@ -34,9 +34,9 @@ Our Research Question is:
 # Methods
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method.!-->
 
+I will be analyzing who does more pushups. The explanatory variable will be Position while the response variable will be the the amount of pushups the players did. A good way to look at the data since we are comparing the amount of pushups between linemen and skil players is with a boxplot. 
 
-
-
+For numerical data, since we want to look at the relationship between the position and the amount of pushups the player can do it would be best to run a t-test to see if there is any relationship between the categorical and numerical variables.
 
 
 # Results
