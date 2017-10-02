@@ -51,6 +51,7 @@ CN2 <- CN + geom_boxplot()
 CN2 + ggtitle("Who does more pushups?")
 ```
 
+By looking at the graph the linemen have a smaller spread than the skill players. They also have a smaller median than the skill players. The skill players boxplot has one outlier present. Based on the graph, skill players do more pushups than the linemen.
 
 ## Numerical Results
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
