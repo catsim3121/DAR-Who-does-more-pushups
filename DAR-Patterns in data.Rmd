@@ -54,6 +54,10 @@ Our Research Question is:
 # Inferential Results
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+t.test(pushups~position, data=pushups)
+```
+The null hypothesis is that there is no relationship, in the population, between the number of pushups and the position of the football player. The alternative hypothesis is that there is a relationship, in the population, between the number of pushups and the position of the football player. The t-statistic is about 5.43. The degrees of freedom is 27.08. If the null is correct it would be expected for the t-statistic to be around 27. The t-statistic is many sds away from the df. The p-value is 9.42x10^-7 which is less than 0.05. This means that the data provides strong evidence that there is a relationship between the number of pushups and the position of the football player at Georgetown college. 
 
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
