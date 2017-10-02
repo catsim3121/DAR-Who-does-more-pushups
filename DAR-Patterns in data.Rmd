@@ -58,3 +58,4 @@ Our Research Question is:
 # Discussion and Conclusion
 <!--State your overall conclusion.  This is also a good place to mention other Research Questions that came to mind as you were carrying out this study.!-->
 
+Based on the graphical, numerical and inferential data, the consensus is that skill players do more pushups than linemen. Although the null hypothesis was rejected, I do question whether weight was an influence on how many pushups a player did. Since the data did not look at weight this conclusion could be incorrect. 
